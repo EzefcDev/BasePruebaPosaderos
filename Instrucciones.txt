@@ -1,0 +1,10 @@
+-Abrir la ubicacion donde se haya instalado XAMPP
+-Abrir la carpeta htdocs y pegar la carpeta devposaderos
+-Volver atras y abrir la carpeta mysql
+-Abrir la carpeta data
+-Pegar la carpeta appposaderos
+
+-Realizado estos pasos ubicar su ip para configurarla en la app 
+
+-Ingresar la ip y el puerto donde este configurado el apache en carga_confirmacion.java
+-ubicar el comentario donde dice "aqui se cambia la ip y el puerto" 
